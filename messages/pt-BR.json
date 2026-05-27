@@ -1,0 +1,1418 @@
+{
+  "Header": {
+    "signUp": "Cadastrar",
+    "menu": "Menu",
+    "signIn": "Entrar",
+    "logOut": "Sair",
+    "more": "Mais"
+  },
+  "Select": {
+    "placeholder": "Selecionar",
+    "notFoundContent": "Sem dados"
+  },
+  "AuthPrompt": {
+    "title": "Faça login para acessar",
+    "description": "Por favor, faça login ou crie uma nova conta para desbloquear",
+    "register": "Registrar",
+    "login": "Entrar"
+  },
+  "homepage": {
+    "HeroSection": {
+      "ariaLabel": "Partidas em destaque"
+    },
+    "MatchCarouselSection": {
+      "ariaLabel": "Partidas ao vivo"
+    },
+    "HighlightsSection": {
+      "ariaLabel": "Destaques e odds das partidas",
+      "noMatchesFound": "Nenhuma partida encontrada",
+      "tabs": {
+        "highlights": "Destaques",
+        "all": "Todos",
+        "live": "Ao vivo",
+        "upcoming": "Em breve"
+      },
+      "sports": {
+        "soccer": "Futebol",
+        "basketball": "Basquete",
+        "tennis": "Tênis",
+        "badminton": "Badminton",
+        "hockey": "Hóquei",
+        "rugby": "Rúgbi",
+        "volleyball": "Vôlei",
+        "baseball": "Beisebol",
+        "tableTennis": "Tênis de Mesa",
+        "boxing": "Boxe"
+      },
+      "ariaLabels": {
+        "sportFilter": "Filtro de esporte",
+        "matchCategoryTabs": "Abas de categoria de partida"
+      }
+    },
+    "TopCasinoGamesSection": {
+      "title": "Principais Jogos de Cassino",
+      "ariaLabel": "Principais jogos de cassino"
+    },
+    "TopProvidersSection": {
+      "title": "Principais Provedores"
+    },
+    "PromotionsSection": {
+      "title": "Principais Promoções"
+    },
+    "CompetitionsSection": {
+      "title": "Competições",
+      "description": "De 1º de dezembro a 15 de janeiro, abasteça-se de adrenalina e embarque nas competições festivas com um prêmio de €6.000 EUR!"
+    },
+    "CtaBannerSection": {
+      "title": "Tudo que você precisa para começar a apostar em um só lugar",
+      "description": "Crie uma conta para fazer apostas, acompanhar suas vitórias e participar de torneios semanais.",
+      "ariaLabel": "Banner de chamada para ação"
+    },
+    "Registration": {
+      "title": "Cadastro",
+      "fields": {
+        "phoneNumber": {
+          "placeholder": "155 500 000"
+        },
+        "confirmationCode": {
+          "placeholder": "Código de confirmação"
+        },
+        "agreedToTerms": {
+          "required": "Você deve concordar com os termos e condições"
+        }
+      },
+      "termsText": "Ao clicar neste botão, você confirma que leu e concorda com os",
+      "termsAnd": "e",
+      "termsConfirmAge": "da empresa e confirma que você é maior de idade"
+    },
+    "BetSlip": {
+      "title": "Boletim de Apostas",
+      "tabs": {
+        "single": "Simples",
+        "multiple": "Múltipla",
+        "system": "Sistema"
+      }
+    },
+    "SidePanel": {
+      "collapseLabel": "Recolher Painel Lateral",
+      "expandLabel": "Expandir Painel Lateral",
+      "registrationTab": "Cadastro",
+      "betSlipTab": "Boletim de Apostas"
+    },
+    "RegistrationCard": {
+      "title": " Tudo o que você precisa para começar a apostar em um só lugar",
+      "description": "Crie uma conta para fazer apostas, acompanhar seus ganhos e participar de torneios semanais.",
+      "registerNow": "Cadastre-se agora"
+    }
+  },
+  "SignIn": {
+    "dialogTitle": "Entrar",
+    "dialogDescription": "Entre na sua conta",
+    "bannerAlt": "Comece sua jornada com um bônus de 100%",
+    "bannerHeadingLine1": "Comece sua jornada",
+    "bannerHeadingLine2": "com um",
+    "bannerHeadingBonus": "100%",
+    "bannerHeadingLine3": "de bônus",
+    "heading": "Entrar",
+    "tabs": {
+      "byPhone": "Por telefone",
+      "byEmail": "Por e-mail"
+    },
+    "fields": {
+      "phoneNumber": "Número de telefone",
+      "phoneNumberPlaceholder": "155 500 000",
+      "emailOrUsername": "E-mail ou nome de usuário",
+      "emailPlaceholder": "ex: roberto@email.com ou roberto132",
+      "password": "Senha",
+      "passwordPlaceholder": "Digite sua senha"
+    },
+    "rememberMe": "Lembrar de mim",
+    "forgotPassword": "Esqueceu a senha?",
+    "loginButton": "Entrar",
+    "orText": "Ou",
+    "loginViaSms": "Entrar via código SMS",
+    "socialLoginText": "Você pode entrar na sua conta via",
+    "captcha": {
+      "dialogTitle": "Verificação de Captcha",
+      "dialogDescription": "Por favor, complete o captcha para continuar",
+      "closeCaptcha": "Fechar captcha",
+      "instruction": "Clique nesta ordem:",
+      "update": "ATUALIZAR",
+      "sendButton": "Enviar"
+    },
+    "smsRequest": {
+      "description": "O código será enviado para este número de telefone. Por favor, insira-o para entrar no site",
+      "sendButton": "Enviar por SMS",
+      "backToForm": "Entrar pelo formulário"
+    },
+    "smsVerify": {
+      "description": "O código será enviado para este número de telefone. Por favor, insira-o para entrar no site",
+      "smsCode": "Código SMS",
+      "resendCode": "Reenviar código",
+      "loginButton": "Entrar",
+      "back": "Voltar"
+    },
+    "codeSent": {
+      "dialogTitle": "Verificação de Captcha",
+      "dialogDescription": "Por favor, complete o captcha para continuar",
+      "title": "Código enviado",
+      "description": "Se o número {phone} estiver vinculado à sua conta, você receberá um código de confirmação por SMS",
+      "continueButton": "Continuar"
+    },
+    "selfExclusionDialog": {
+      "title": "Conta sob Autoexclusão",
+      "periodLabel": "Período:",
+      "reasonLabel": "Motivo:",
+      "noReason": "Nenhum motivo fornecido",
+      "accessDescription": "O acesso a apostas e login está temporariamente restrito.",
+      "contactDescription": "Para obter assistência, entre em contato com o Suporte:",
+      "iUnderstand": "Entendo",
+      "untilFurtherNotice": "Até novo aviso"
+    },
+    "feedback": {
+      "invalidPhoneNumber": "Número de telefone inválido",
+      "signInFailed": "Falha ao entrar",
+      "signInSuccessful": "Login realizado com sucesso! Os grandes jogos estão esperando por você 🔥",
+      "smsCodeSendFailed": "Falha ao enviar o código SMS",
+      "smsCodeResendFailed": "Falha ao reenviar o código SMS",
+      "smsCodeSent": "Código SMS enviado",
+      "phoneVerificationFailed": "Falha na verificação do telefone"
+    }
+  },
+  "ForgotPassword": {
+    "title": "Recuperação de senha",
+    "dialogDescription": "Recupere a senha da sua conta",
+    "tabs": {
+      "byPhone": "Por telefone",
+      "byEmail": "Por e-mail"
+    },
+    "fields": {
+      "email": "E-mail",
+      "emailPlaceholder": "Digite seu e-mail",
+      "phoneNumber": "Número de telefone",
+      "phoneNumberPlaceholder": "155 500 000",
+      "newPassword": "Nova senha",
+      "newPasswordPlaceholder": "Digite a nova senha",
+      "confirmPassword": "Confirmar nova senha",
+      "confirmPasswordPlaceholder": "Redigite a nova senha"
+    },
+    "enterContact": {
+      "emailDescription": "Digite o endereço de e-mail que você usou para se cadastrar",
+      "phoneDescription": "Digite o número de telefone que você usou para se cadastrar",
+      "sendButton": "Enviar"
+    },
+    "captcha": {
+      "dialogTitle": "Verificação de Captcha",
+      "dialogDescription": "Por favor, complete o captcha para continuar"
+    },
+    "confirmation": {
+      "title": "Confirmação",
+      "otpCode": "Código OTP",
+      "smsCode": "Código SMS",
+      "emailDescription": "Se você forneceu o endereço de e-mail {contact} ao se cadastrar, receberá um e-mail com um código de confirmação",
+      "phoneDescription": "Uma mensagem com o código foi enviada para você por SMS. Se não recebeu o código, tente usar um método de envio diferente",
+      "resendCode": "Reenviar código",
+      "confirmButton": "Confirmar"
+    },
+    "feedback": {
+      "invalidPhoneNumber": "Número de telefone inválido",
+      "sendCodeFailed": "Falha ao enviar o código de redefinição",
+      "codeSent": "Código de redefinição enviado",
+      "codeResent": "Código de redefinição reenviado",
+      "resendCodeFailed": "Falha ao reenviar o código de redefinição",
+      "otpVerificationFailed": "Falha ao verificar o código de confirmação",
+      "resetPasswordFailed": "Falha ao redefinir a senha",
+      "sessionExpired": "Sua sessão de redefinição expirou. Por favor, comece novamente."
+    },
+    "createPassword": {
+      "title": "Criar nova senha",
+      "description": "Digite sua nova senha abaixo para concluir o processo de redefinição",
+      "confirmButton": "Confirmar"
+    },
+    "success": {
+      "title": "Senha Atualizada!",
+      "description": "Sua senha foi alterada com sucesso. Use sua nova senha para acessar sua conta",
+      "backToHome": "Voltar para a página inicial"
+    }
+  },
+  "SignUp": {
+    "dialogTitle": "Cadastro",
+    "dialogDescription": "Crie uma nova conta",
+    "title": "Cadastro",
+    "tabs": {
+      "byPhone": "Por telefone",
+      "byEmail": "Por e-mail"
+    },
+    "fields": {
+      "phoneNumber": "Número de telefone",
+      "phoneNumberPlaceholder": "155 500 000",
+      "currency": "Moeda",
+      "confirmationCode": "Código de confirmação",
+      "confirmationCodePlaceholder": "Digite o código de confirmação",
+      "country": "País",
+      "region": "Estado",
+      "regionPlaceholder": "Selecione um estado",
+      "email": "E-mail",
+      "emailPlaceholder": "exemplo@gmail.com",
+      "firstName": "Nome",
+      "firstNamePlaceholder": "Digite seu nome",
+      "surname": "Sobrenome",
+      "surnamePlaceholder": "Digite seu sobrenome",
+      "dateOfBirth": "Data de nascimento",
+      "dateOfBirthPlaceholder": "Selecione a data",
+      "password": "Senha",
+      "passwordPlaceholder": "Digite sua senha",
+      "confirmPassword": "Confirmar senha",
+      "confirmPasswordPlaceholder": "Digite sua senha"
+    },
+    "termsText": "Ao clicar neste botão, você confirma que leu e concorda com os",
+    "termsAnd": "e",
+    "termsConfirmAge": "da empresa e confirma que você é maior de idade",
+    "registerButton": "Cadastrar",
+    "sendSmsTooltip": "Enviar SMS",
+    "resendIn": "Reenviar em",
+    "captcha": {
+      "dialogTitle": "Verificação de Captcha",
+      "dialogDescription": "Por favor, complete o captcha para continuar"
+    },
+    "codeSent": {
+      "title": "Código enviado",
+      "description": "Se o número {phone} estiver vinculado à sua conta, você receberá um código de confirmação por SMS",
+      "continueButton": "Continuar"
+    },
+    "emailSent": {
+      "title": "Verifique seu e-mail",
+      "description": "Enviamos um link de verificação para {email}. Por favor, verifique sua caixa de entrada e clique no link para verificar sua conta",
+      "doneButton": "Concluído"
+    },
+    "error": {
+      "title": "Erro",
+      "invalidNumber": "Número inválido",
+      "cancelButton": "Cancelar"
+    },
+    "feedback": {
+      "registrationSucceeded": "Cadastro realizado com sucesso",
+      "registrationFailed": "Falha no cadastro",
+      "emailVerificationSendFailed": "Cadastro realizado, mas não foi possível enviar o e-mail de verificação. Tente novamente pelo seu perfil.",
+      "sendOtpFailed": "Não foi possível enviar o OTP",
+      "defaultUsername": "Jogador",
+      "registrationToast": "Cadastro Realizado! Bem-vindo(a) {username}, pronto(a) para sua primeira vitória? 🏆"
+    }
+  },
+  "MainHeader": {
+    "register": "Cadastrar",
+    "login": "Entrar",
+    "profileDropdown": {
+      "logout": "Sair",
+      "menu": {
+        "profile": "Perfil",
+        "deposit": "Depósito",
+        "withdraw": "Saque",
+        "favorites": "Favoritos",
+        "messages": "Mensagens"
+      },
+      "feedback": {
+        "logoutFailed": "Falha ao sair"
+      }
+    },
+    "balanceDropdown": {
+      "balance": "Saldo",
+      "withdrawable": "Disponível para saque",
+      "bonus": "Bônus",
+      "locked": "Bloqueado",
+      "deposit": "Depósito",
+      "withdraw": "Saque"
+    },
+    "avatarDropdown": {
+      "view": "Ver avatar",
+      "upload": "Enviar novo avatar",
+      "remove": "Remover avatar",
+      "avatar": "Avatar",
+      "removeAvatarDescription": "Tem certeza que deseja remover sua foto de perfil?",
+      "deposit": "Depositar",
+      "withdraw": "Sacar"
+    },
+    "notificationDropdown": {
+      "ariaLabel": "Notificações",
+      "title": "Notificações",
+      "markAllAsRead": "Marcar todas como lidas",
+      "today": "Hoje",
+      "earlier": "Anteriores",
+      "empty": "Nenhuma notificação",
+      "tabs": {
+        "all": "Todas",
+        "promotion": "Promoção",
+        "transaction": "Transação",
+        "system": "Sistema"
+      }
+    }
+  },
+  "NotificationCenter": {
+    "ariaLabel": "Notificações",
+    "unreadAvailable": "Há notificações não lidas",
+    "actions": "Ações de notificação",
+    "title": "Notificação",
+    "desktopTitle": "Notificações",
+    "close": "Fechar notificações",
+    "markAllAsRead": "Marcar todas como lidas",
+    "tabs": {
+      "all": "Todas",
+      "promotions": "Promoções",
+      "transactions": "Transações",
+      "system": "Sistema"
+    },
+    "filters": {
+      "all": "Todas",
+      "unread": "Não lidas"
+    },
+    "sections": {
+      "today": "Hoje",
+      "yesterday": "Ontem",
+      "older": "Anteriores"
+    },
+    "states": {
+      "loading": "Carregando notificações",
+      "loadingMore": "Carregando mais notificações",
+      "empty": "Nenhuma notificação",
+      "error": "Não foi possível carregar as notificações. Tente novamente."
+    },
+    "dialog": {
+      "close": "Fechar notificação",
+      "action": "Abrir"
+    },
+    "feedback": {
+      "markOneFailed": "Não foi possível marcar a notificação como lida.",
+      "markAllFailed": "Não foi possível marcar todas as notificações como lidas."
+    }
+  },
+  "MobileNavigation": {
+    "bottomNav": {
+      "menu": "Menu",
+      "casino": "Cassino",
+      "home": "Início",
+      "betSlip": "Boletim de apostas",
+      "account": "Conta"
+    },
+    "menu": {
+      "search": "Buscar",
+      "notification": "Notificação",
+      "home": "Início",
+      "support": "Suporte",
+      "close": "Fechar menu"
+    },
+    "language": {
+      "title": "Idioma",
+      "back": "Voltar ao menu"
+    },
+    "promo": {
+      "title": "Bônus de primeiro depósito de até $1.000",
+      "cta": "Fazer um depósito"
+    },
+    "accountDrawer": {
+      "title": "Conta",
+      "welcomeTitle": "Bem-vindo(a) de volta",
+      "welcomeDescription": "Abra o menu da sua conta aqui para entrar, se cadastrar e gerenciar seu perfil no celular.",
+      "defaultPlayer": "Jogador"
+    },
+    "feedback": {
+      "comingSoonMobile": "{label} em breve no celular."
+    }
+  },
+  "Competition": {
+    "title": "Competições",
+    "tabs": {
+      "ongoing": "Em andamento",
+      "upcoming": "Em breve",
+      "finished": "Encerradas"
+    },
+    "prizePool": "Premiação",
+    "schedule": "De {startDate} a {endDate}"
+  },
+  "Promotion": {
+    "title": "Promoções",
+    "description": "Escolha uma de nossas promoções imperdíveis antes que o tempo acabe!",
+    "tabs": {
+      "all": "Todas",
+      "casino": "Cassino",
+      "sports": "Esportes"
+    }
+  },
+  "Reward": {
+    "title": "Recompensas",
+    "myRewards": "Minhas recompensas",
+    "active": "Ativas",
+    "available": "Disponíveis",
+    "seeMore": "Ver mais",
+    "bonusAmount": "Valor do bônus",
+    "yourProgress": "Seu progresso",
+    "completed": "concluído",
+    "tabs": {
+      "all": "Todas",
+      "casino": "Cassino",
+      "sports": "Esportes"
+    },
+    "actions": {
+      "use": "Usar",
+      "convert": "Converter",
+      "claimed": "Resgatado",
+      "expired": "Expirado",
+      "moreInfo": "Mais informações",
+      "activate": "Ativar",
+      "deactivate": "Desativar"
+    },
+    "emptyMyRewards": {
+      "title": "Sua Coleção Está Vazia",
+      "description": "Conclua sua primeira recompensa para ver suas conquistas aqui"
+    },
+    "emptyActive": {
+      "title": "Nenhuma Recompensa Ativa",
+      "description": "Escolha uma promoção em \"Disponíveis\" abaixo para começar a ganhar!"
+    }
+  },
+  "Game": {
+    "allGame": "Todos os jogos",
+    "playNow": "Jogar agora",
+    "demo": "Demonstração",
+    "funPlay": "Jogo divertido",
+    "realPlay": "Jogo real",
+    "provider": "Provedor",
+    "category": "Categoria",
+    "fullscreen": "Entrar em tela cheia",
+    "exitFullscreen": "Sair da tela cheia",
+    "minimalMode": "Ocultar controles",
+    "showControls": "Mostrar controles",
+    "unavailable": "Jogo indisponível",
+    "loginToPlay": "Faça login para jogar este jogo",
+    "untitled": "Jogo sem título"
+  },
+  "Account": {
+    "tabs": {
+      "overview": "Visão geral",
+      "profile": "Perfil",
+      "setting": "Configurações",
+      "transactions": "Transações",
+      "verification": "Verificação",
+      "questionnaire": "Questionários",
+      "limits": "Limites"
+    },
+    "notifications": {
+      "ekyc": {
+        "title": "KYC",
+        "content": "Por favor, conclua sua verificação KYC para desbloquear o acesso completo e manter sua conta segura.",
+        "cta": "KYC"
+      },
+      "verification": {
+        "title": "Documento",
+        "content": "Você tem documentos aguardando revisão. Por favor, conclua sua verificação para continuar.",
+        "contentSingular": "Você tem 1 nova solicitação de documento. Por favor, visualize e conclua o envio.",
+        "contentPlural": "Você tem {count} novas solicitações de documentos. Por favor, visualize e conclua o envio.",
+        "cta": "Ver Documentos"
+      },
+      "questionnaire": {
+        "title": "Questionário Pendente",
+        "content": "Por favor, responda seu questionário para nos ajudar a entender suas preferências.",
+        "contentSingular": "Você tem 1 nova solicitação de questionário. Por favor, visualize e conclua o envio.",
+        "contentPlural": "Você tem {count} novas solicitações de questionários. Por favor, visualize e conclua o envio.",
+        "cta": "Ver Questionários"
+      }
+    },
+    "Ekyc": {
+      "required": {
+        "title": "KYC obrigatório",
+        "description": "Por favor, verifique sua identidade para continuar.",
+        "cancel": "Cancelar",
+        "verifyNow": "Verificar agora"
+      },
+      "verification": {
+        "registerTitle": "KYC",
+        "registerDescription": "Por favor, conclua seu KYC para prosseguir",
+        "verifyTitle": "Verifique sua identidade",
+        "verifyDescription": "Por favor, conclua a verificação de identidade para continuar.",
+        "iframeTitle": "Verificação eKYC",
+        "loadingLink": "Preparando sua sessão de verificação...",
+        "missingLink": "Não foi possível abrir a sessão de verificação. Por favor, tente novamente.",
+        "retry": "Tentar novamente",
+        "backToHomepage": "Voltar para a página inicial"
+      },
+      "faceVerification": {
+        "title": "Verificação facial",
+        "description": "Por favor, faça um scan facial para prosseguir",
+        "cantUseFace": "Não consigo usar a verificação facial",
+        "useSms": "Por código SMS",
+        "back": "Voltar"
+      },
+      "verificationMethods": {
+        "title": "Selecionar método de verificação",
+        "description": "Escolha um método para verificar",
+        "ekyc": "Reconhecimento facial",
+        "sms": "Usar código SMS pelo telefone",
+        "email": "Usar código SMS pelo e-mail",
+        "next": "Próximo"
+      },
+      "smsVerification": {
+        "title": "Verificar por código SMS",
+        "emailTitle": "Verificar por código OTP",
+        "description": "Por favor, insira o código de 6 dígitos enviado para {phoneNumber}",
+        "descriptionBase": "Digite o código de 6 dígitos enviado para",
+        "phoneFallback": "seu número de telefone",
+        "emailFallback": "seu e-mail",
+        "otpLabel": "Código SMS",
+        "emailOtpLabel": "Código de e-mail",
+        "resendCode": "Reenviar Código",
+        "verify": "Verificar",
+        "back": "Voltar"
+      },
+      "success": {
+        "title": "Verificação realizada com sucesso!",
+        "description": "Sua identidade foi confirmada. Sua conta está totalmente verificada e protegida.",
+        "continue": "Continuar"
+      },
+      "failed": {
+        "title": "Verificação Falhou",
+        "description": "Seus documentos de verificação de identidade não atenderam aos padrões da nossa plataforma. Você deve concluir o processo KYC com sucesso para acessar todos os recursos e serviços de jogos.",
+        "cancel": "Cancelar",
+        "tryAgain": "Tentar novamente"
+      },
+      "verificationError": {
+        "title": "Erro de verificação",
+        "description": "Não foi possível concluir a verificação. Por favor, tente novamente.",
+        "close": "Fechar"
+      },
+      "callback": {
+        "processing": "Processando resultado do eKYC"
+      },
+      "feedback": {
+        "inProgress": "Um fluxo eKYC já está em andamento.",
+        "checkFailed": "Não foi possível verificar seu status KYC agora.",
+        "registerRequired": "Por favor, conclua o cadastro KYC antes de continuar.",
+        "linkFailed": "Não foi possível abrir o link eKYC agora.",
+        "verifyFailed": "Não foi possível concluir a verificação agora.",
+        "smsRequestFailed": "Não foi possível enviar o código SMS agora.",
+        "smsVerifyFailed": "Não foi possível verificar o código SMS agora.",
+        "smsResendFailed": "Não foi possível reenviar o código SMS agora.",
+        "faceAlternativePending": "A verificação por SMS estará disponível em breve para este mercado."
+      }
+    },
+    "Overview": {
+      "balanceSummaryCards": {
+        "balance": "Saldo",
+        "bonus": "Bônus",
+        "withdrawable": "Disponível para saque",
+        "locked": "Bloqueado"
+      },
+      "activityLogTable": {
+        "columns": {
+          "type": "Tipo",
+          "eventName": "Nome do evento",
+          "dateTime": "Data e Hora",
+          "ipAddress": "Endereço IP",
+          "device": "Dispositivo",
+          "browser": "Navegador",
+          "description": "Descrição",
+          "date": "Data"
+        },
+        "filters": {
+          "eventName": "Status"
+        },
+        "eventNames": {
+          "casino": "Cassino",
+          "sports": "Esportes",
+          "payment": "Pagamento",
+          "user": "Usuário",
+          "system": "Sistema"
+        },
+        "types": {
+          "account": "Conta",
+          "casino": "Cassino",
+          "payment": "Pagamento",
+          "sport": "Esporte",
+          "sports": "Esportes",
+          "user": "Usuário",
+          "system": "Sistema"
+        }
+      }
+    },
+    "Transactions": {
+      "tabs": {
+        "monetary": "Financeiro",
+        "casino": "Cassino",
+        "sports": "Esportes"
+      },
+      "filters": {
+        "status": "Status"
+      },
+      "table": {
+        "createdOn": "Criado em",
+        "updatedOn": "Atualizado em",
+        "transactionType": "Tipo de transação",
+        "referenceType": "Tipo de referência",
+        "detail": "Detalhe",
+        "type": "Tipo",
+        "status": "Status",
+        "wallet": "Carteira",
+        "before": "Antes",
+        "amount": "Valor",
+        "after": "Depois",
+        "method": "Método",
+        "provider": "Provedor",
+        "game": "Jogo",
+        "transactionId": "ID da transação"
+      },
+      "status": {
+        "in_review": "Em análise",
+        "pending": "Pendente",
+        "failed": "Falhou",
+        "abandoned": "Abandonado",
+        "system_error": "Erro do sistema",
+        "success": "Sucesso",
+        "awaiting_otp": "Aguardando OTP",
+        "rejected": "Rejeitado",
+        "refunded": "Reembolsado"
+      },
+      "wallet": {
+        "main": "Principal",
+        "bonus": "Bônus",
+        "locked": "Bloqueado"
+      },
+      "types": {
+        "win": "Ganho",
+        "bet": "Aposta",
+        "refund": "Reembolso",
+        "lose": "Perda",
+        "deposits": "Depósitos",
+        "withdrawals": "Saques",
+        "deposit": "Depósito",
+        "withdraw": "Saque",
+        "credit": "Crédito",
+        "debit": "Débito"
+      },
+      "sort": {
+        "newest": "Mais recentes",
+        "oldest": "Mais antigos"
+      },
+      "details": {
+        "detailInfo": "Informações detalhadas",
+        "INTERNAL_TRANSFER": "Transferência interna",
+        "MANUAL_CREDIT": "Crédito",
+        "MANUAL_DEBIT": "Débito",
+        "NO_FEE": "Sem taxa",
+        "ADDED_TO_AMOUNT": "Adicionado ao valor",
+        "DEDUCTED_FROM_AMOUNT": "Deduzido do valor",
+        "TAXABLE_WINNING_DEDUCTION": "Dedução de ganho tributável",
+        "PRE_WAGERED_BONUS_REWARD": "Recompensa de bônus pré-apostado",
+        "SWEEPS_COINS_EXPIRED": "Sweeps coins expiradas",
+        "DEPOSIT": "Depósito",
+        "WITHDRAWAL": "Saque",
+        "REDEMPTION": "Resgate",
+        "BONUS": "Bônus",
+        "BONUS_REWARD": "Recompensa de bônus",
+        "LOCKED": "Bloqueado",
+        "CASHBACK": "Cashback",
+        "GAME_BET": "Aposta no jogo",
+        "GAME_WIN": "Ganho no jogo",
+        "GAME_REFUND": "Reembolso do jogo",
+        "BONUS_WIN": "Ganho de bônus",
+        "JACKPOT_WIN": "Ganho de jackpot",
+        "PROMO_WIN": "Ganho promocional",
+        "BONUS_CONVERT": "Conversão de bônus",
+        "PROVIDER_ADJUSTMENT": "Ajuste do provedor",
+        "FEE_CHARGE": "Cobrança de taxa",
+        "MANUAL_ADJUSTMENT": "Ajuste manual"
+      }
+    },
+    "Verification": {
+      "category": {
+        "proofOfIdentity": {
+          "name": "Comprovante de Identidade",
+          "title": "POI (Comprovante de Identidade)",
+          "desc": "Garante que o usuário é uma pessoa real e ajuda a prevenir fraudes."
+        },
+        "proofOfAddress": {
+          "name": "Comprovante de Endereço",
+          "title": "POA (Comprovante de Endereço)",
+          "desc": "Documentos que confirmam o endereço residencial atual do usuário."
+        },
+        "sourceOfFunds": {
+          "name": "Origem dos Fundos",
+          "title": "SOF (Origem dos Fundos)",
+          "desc": "Documentos que demonstram a origem dos fundos do usuário."
+        }
+      },
+      "type": {
+        "nationalIdCard": "Carteira de identidade nacional",
+        "socialSecurityCard": "Cartão de seguridade social",
+        "drivingLicense": "Carteira de motorista",
+        "passport": "Passaporte",
+        "bankStatement": "Extrato bancário",
+        "leaseAgreement": "Contrato de locação",
+        "residencePermit": "Autorização de residência",
+        "utilityBill": "Conta de serviço público",
+        "contractOfSale": "Contrato de compra e venda",
+        "employmentLetter": "Carta de emprego",
+        "grantOfProbate": "Carta de inventário",
+        "payslip": "Contracheque",
+        "taxReturns": "Declaração de imposto de renda",
+        "loanContract": "Contrato de empréstimo",
+        "investmentStatement": "Extrato de investimentos",
+        "insuranceProceedsContract": "Contrato de indenização de seguro"
+      },
+      "documentSide": {
+        "notSet": "Não definido",
+        "front": "Frente",
+        "back": "Verso",
+        "frontBack": "Frente e verso"
+      },
+      "table": {
+        "name": "Nome",
+        "requestedDate": "Data da solicitação",
+        "status": "Status",
+        "action": "Ação",
+        "date": "Data"
+      },
+      "status": {
+        "requested": "Solicitado",
+        "submitted": "Enviado",
+        "verified": "Verificado",
+        "rejected": "Rejeitado",
+        "pending": "Pendente",
+        "cancelled": "Cancelado",
+        "expired": "Expirado"
+      },
+      "actions": {
+        "upload": "Enviar",
+        "submit": "Submeter",
+        "view": "Visualizar",
+        "removeFile": "Remover arquivo",
+        "close": "Fechar",
+        "kycRequired": "KYC obrigatório"
+      },
+      "preview": {
+        "title": "Ver detalhes",
+        "imageTitle": "Ver imagem",
+        "yourDocument": "Seu documento",
+        "detailsTitle": "Detalhes do documento",
+        "loading": "Carregando documento...",
+        "openFile": "Abrir arquivo",
+        "emptyTitle": "Nenhum documento enviado",
+        "emptyDescription": "Envie um arquivo JPG, PNG ou PDF para continuar.",
+        "fields": {
+          "name": "Nome",
+          "category": "Categoria",
+          "side": "Lado",
+          "documentNumber": "Número do documento",
+          "status": "Status",
+          "reason": "Motivo"
+        }
+      },
+      "feedback": {
+        "uploadSuccess": "Documento enviado com sucesso.",
+        "uploadMaxSizeError": "O arquivo selecionado excede {size}."
+      },
+      "uploadHint": "Máx {maxSize} MB · JPG, PNG, PDF · 1 arquivo",
+      "multipleRequestsHint": "Nova(s) solicitação(ões) de documento!",
+      "emptyTitle": "Nenhuma solicitação de verificação ainda",
+      "emptyDescription": "Quaisquer documentos solicitados aparecerão aqui."
+    },
+    "Profile": {
+      "profile": "Perfil",
+      "emptyState": "Dados do perfil ainda não disponíveis.",
+      "sections": {
+        "accountInformation": "Informações da conta",
+        "personalInformation": "Informações pessoais"
+      },
+      "fields": {
+        "username": "Nome de usuário",
+        "email": "E-mail",
+        "phoneNumber": "Número de telefone",
+        "country": "País",
+        "city": "Cidade",
+        "currency": "Moeda",
+        "firstName": "Nome",
+        "surName": "Sobrenome",
+        "dateOfBirth": "Data de Nascimento",
+        "promoCode": "Código promocional (se tiver)",
+        "cpfNumber": "Número CPF",
+        "postalCode": "CEP"
+      },
+      "verification": {
+        "verifyNow": "Verificar agora",
+        "verified": "Verificado",
+        "email": {
+          "title": "Verifique seu e-mail",
+          "description": "Enviamos um link de verificação para {email}. Por favor, verifique sua caixa de entrada e clique no link para verificar sua conta",
+          "doneButton": "Concluído",
+          "sent": "Enviamos um link de verificação para {email}. Por favor, verifique sua caixa de entrada.",
+          "sendFailed": "Não foi possível enviar o e-mail de verificação agora."
+        },
+        "emailPage": {
+          "success": {
+            "title": "Sucesso",
+            "description": "Seu e-mail foi verificado.",
+            "action": "Voltar para a página inicial"
+          },
+          "error": {
+            "title": "Verificação Malsucedida",
+            "description": "Não conseguimos verificar sua conta. O link pode ser inválido ou ter expirado.",
+            "action": "Voltar para a página inicial"
+          },
+          "processing": {
+            "title": "Verificando seu e-mail",
+            "description": "Aguarde enquanto verificamos seu e-mail."
+          }
+        }
+      },
+      "editFlows": {
+        "cooldown": {
+          "title": "Atualização não disponível",
+          "description": "Você só pode alterar seu(sua) {field} uma vez a cada {days} dias.",
+          "nextAvailable": "Próxima disponibilidade: <highlight>{dateTime}</highlight>",
+          "cancelButton": "Cancelar",
+          "flow": {
+            "username": "nome de usuário",
+            "email": "e-mail",
+            "phoneNumber": "número de telefone"
+          }
+        },
+        "username": {
+          "title": "Alterar seu nome de usuário",
+          "description": "Seu nome de usuário atual é {currentValue}. Por favor, insira o novo nome de usuário que deseja usar",
+          "placeholder": "Digite o novo nome de usuário",
+          "success": {
+            "title": "Sucesso",
+            "description": "Seu nome de usuário foi atualizado",
+            "backToHomepage": "Voltar para a página inicial"
+          },
+          "feedback": {
+            "checkFailed": "Não foi possível verificar seu nome de usuário agora.",
+            "updateFailed": "Não foi possível atualizar seu nome de usuário agora."
+          }
+        },
+        "email": {
+          "title": "Alterar seu e-mail",
+          "description": "Seu e-mail atual é {currentValue}. Por favor, insira o novo endereço de e-mail que deseja usar",
+          "placeholder": "Digite o novo e-mail",
+          "success": {
+            "title": "Verifique seu e-mail",
+            "description": "Enviamos um link de verificação para {email}. Por favor, verifique sua caixa de entrada e clique no link para concluir a alteração do e-mail",
+            "doneButton": "Concluído"
+          },
+          "verification": {
+            "success": {
+              "title": "Sucesso",
+              "description": "Seu e-mail foi atualizado",
+              "action": "Voltar para a página inicial"
+            },
+            "error": {
+              "title": "Verificação Malsucedida",
+              "description": "Não conseguimos verificar sua conta. O link pode ser inválido ou ter expirado.",
+              "action": "Voltar para a página inicial"
+            },
+            "processing": {
+              "title": "Verificando seu e-mail",
+              "description": "Aguarde enquanto concluímos a alteração do seu e-mail."
+            }
+          },
+          "feedback": {
+            "checkFailed": "Não foi possível verificar seu e-mail agora.",
+            "requestFailed": "Não foi possível solicitar a alteração do seu e-mail agora."
+          }
+        },
+        "phoneNumber": {
+          "title": "Alterar seu número de telefone",
+          "description": "Por favor, insira seu novo número de telefone.\nVocê deverá verificar que é sua solicitação na próxima etapa",
+          "placeholder": "Digite o novo número de telefone",
+          "verify": {
+            "title": "Verifique seu número de telefone",
+            "description": "Por favor, insira o código de 6 dígitos enviado para\n<highlight>{phoneNumber}</highlight>",
+            "otpLabel": "Código de verificação",
+            "resendCode": "Reenviar Código",
+            "verifyButton": "Verificar"
+          },
+          "success": {
+            "title": "Sucesso",
+            "description": "Seu número de telefone foi atualizado",
+            "backToHomepage": "Voltar para a página inicial"
+          },
+          "feedback": {
+            "checkFailed": "Não foi possível verificar seu número de telefone agora.",
+            "requestOtpFailed": "Não foi possível enviar um código de verificação agora.",
+            "verifyFailed": "Não foi possível verificar seu número de telefone agora.",
+            "updateFailed": "Não foi possível atualizar seu número de telefone agora."
+          }
+        }
+      }
+    },
+    "Setting": {
+      "changePassword": "Alterar Senha",
+      "changePasswordDescription": "Para alterar sua senha, acesse nossa página dedicada de redefinição de senha",
+      "closeAccount": "Encerrar conta",
+      "closeAccountDescription": "Para encerrar sua conta, acesse nossa página dedicada de encerramento de conta",
+      "marketingConsent": "Consentimentos de Marketing",
+      "marketingConsentDescription": "Usamos seus dados pessoais para enviar promoções personalizadas e atualizações de produtos, e você pode escolher seus canais de comunicação preferidos ou cancelar a qualquer momento.",
+      "email": "E-mail",
+      "sms": "SMS",
+      "changePasswordDialog": {
+        "title": "Alterar senha",
+        "description": "Por favor, insira uma nova senha",
+        "newPassword": "Nova senha",
+        "newPasswordPlaceholder": "Digite a nova senha",
+        "reenterNewPassword": "Redigite a nova senha",
+        "successful": "Sucesso",
+        "successDescription": "Sua senha foi atualizada! Por favor, faça login por segurança",
+        "backToHomepage": "Voltar para a página inicial",
+        "updateFailed": "Falha na atualização",
+        "updateFailedDescription": "A senha atual que você digitou está incorreta. Por favor, tente novamente mais tarde.",
+        "cancel": "Cancelar"
+      },
+      "closeAccountDialog": {
+        "title": "Encerrar sua conta",
+        "subtitle": "Sentiremos sua falta!",
+        "description": "Antes de encerrar sua conta, por favor verifique algumas informações:",
+        "items": {
+          "needABreak": {
+            "title": "Precisa de uma pausa?",
+            "description": "Se você só precisa de um tempo, pode definir limites de jogo ou fazer uma pausa curta.",
+            "link": "Link"
+          },
+          "withdrawBalance": {
+            "title": "Saque seu saldo",
+            "description": "Não se esqueça de sacar todos os fundos restantes antes de encerrar sua conta. Se seu saldo estiver abaixo do valor mínimo de saque, você pode encontrar mais detalhes",
+            "link": "Link"
+          },
+          "personalData": {
+            "title": "Seus dados pessoais",
+            "description": "Após o encerramento da sua conta, trataremos suas informações de acordo com nossa Política de Retenção de Dados.",
+            "link": "Link",
+            "descriptionExtra": "Quaisquer dados que não precisemos manter por razões legais serão excluídos ou anonimizados com segurança."
+          }
+        },
+        "confirmCloseAccount": {
+          "title": "Tem certeza que deseja encerrar sua conta?",
+          "description": "Encerrar sua conta é permanente e não pode ser desfeito. Se tiver certeza, clique no botão abaixo para continuar."
+        }
+      },
+      "mfa": {
+        "mfa": "Autenticação de dois fatores",
+        "mfaDescription": "Ative a autenticação de dois fatores clicando em 'Ativar' e seguindo as instruções na tela.",
+        "useOtp": "Usar Google Authenticator",
+        "useRecoveryCode": "Usar código de recuperação",
+        "recoveryCode": "Código de recuperação",
+        "authenticationCode": "Código de autenticação",
+        "securityCode": "Código de Segurança",
+        "enabledTitle": "2FA ativado com sucesso",
+        "securityCodeDescription": "Por favor, certifique-se de ter salvado seus códigos em um lugar seguro",
+        "trustDeviceCheckboxLabel": "Confiar neste dispositivo e não perguntar por {day} dias",
+        "activate": "Ativar",
+        "deactivate": "Desativar",
+        "active": {
+          "title": "Ativar Autenticação de Dois Fatores",
+          "step1": "Passo 1",
+          "step1Desc": "Baixe um aplicativo de autenticação como o <app>Google Authenticator</app>.",
+          "step2": "Passo 2",
+          "step2Desc": "Abra o aplicativo e escaneie o QR code abaixo.",
+          "step2QrCode": "Se não puder usar um QR code, insira este código abaixo",
+          "step3": "Passo 3",
+          "step3Desc": "Digite um código de autenticação de 6 dígitos do aplicativo:"
+        },
+        "deactive": {
+          "title": "Desativação da autenticação de dois fatores",
+          "otpDescription": "Para desativar o 2FA, insira o código do Google Authenticator",
+          "recoveryCodeDescription": "Para desativar a autenticação de dois fatores, insira seu Código de Segurança"
+        },
+        "verify": {
+          "otpDescription": "Para continuar, insira o código de verificação de 6 dígitos gerado pelo seu aplicativo de autenticação de dois fatores.",
+          "recoveryCodeDescription": "Se você não consegue acessar seu dispositivo de dois fatores, insira um dos seus códigos de recuperação para verificar sua identidade."
+        }
+      },
+      "payoutSetting": {
+        "payoutSettings": "Configurações de pagamento",
+        "payoutProfile": "Perfil de pagamento",
+        "addPayoutProfile": "Adicionar perfil de pagamento",
+        "delete": {
+          "title": "Confirmar Exclusão",
+          "description": "Tem certeza que deseja excluir seu Perfil de Pagamento?"
+        },
+        "form": {
+          "payoutName": "Nome do pagamento",
+          "withdrawalMethod": "Método de saque",
+          "selectWithdrawalMethod": "Selecione um método de saque",
+          "bankName": "Nome do banco",
+          "accountNumber": "Número da conta",
+          "accountName": "Nome da conta",
+          "setAsDefault": "Definir como padrão",
+          "payoutNamePlaceholder": "Digite o rótulo do seu cartão",
+          "accountNamePlaceholder": "Digite o nome da sua conta bancária",
+          "accountNumberPlaceholder": "Digite o número da sua conta bancária",
+          "noDeposit": "Nenhum método de depósito disponível"
+        }
+      }
+    },
+    "Limits": {
+      "amount": "Valor",
+      "limitType": "Tipo de limite",
+      "period": "Período",
+      "amountPlaceholder": "Defina seu valor limite",
+      "Tabs": {
+        "casinoBudget": "Orçamento do Cassino",
+        "sportsBudget": "Orçamento de Esportes",
+        "monetaryBudget": "Orçamento Financeiro",
+        "continuousSession": "Sessão Contínua",
+        "cumulativeSession": "Sessão Acumulada",
+        "selfExclusion": "Autoexclusão"
+      },
+      "limitTypeEnum": {
+        "LOSS_LIMIT": "Limite de perda",
+        "WAGER_LIMIT": "Limite de aposta",
+        "WITHDRAWAL_LIMIT": "Limite de saque",
+        "NET_DEPOSIT_LIMIT": "Limite de depósito líquido",
+        "MAX_WAGER_LIMIT": "Limite máximo de aposta",
+        "DEPOSIT_LIMIT": "Limite de depósito",
+        "LOSS_LIMIT_NOTE": "O limite de perda que você define refere-se ao valor que você se permitirá gastar durante um período definido.",
+        "WAGER_LIMIT_NOTE": "O limite máximo de aposta representa o valor máximo que se pode apostar por vertical específica.",
+        "MAX_WAGER_LIMIT_NOTE": "O limite de aposta representa a soma das suas apostas em um período de tempo especificado. Você pode atingir seu limite de aposta mesmo estando em uma sequência de vitórias.",
+        "DEPOSIT_LIMIT_NOTE": "O limite de depósito que você define refere-se ao valor que você se permitirá depositar durante um período definido."
+      },
+      "periodTypeEnum": {
+        "24_HOURS": "24 Horas",
+        "7_DAYS": "7 Dias",
+        "30_DAYS": "30 Dias"
+      },
+      "createdByEnum": {
+        "PLAYER": "Usuário",
+        "BO": "Usuário do back office"
+      },
+      "periodEnum": {
+        "24_HOURS": "Diário",
+        "7_DAYS": "Semanal",
+        "30_DAYS": "Mensal"
+      },
+      "budgetHistory": {
+        "title": "Histórico de limites de orçamento",
+        "createdAt": "Criado em",
+        "nextResetAt": "Próxima redefinição",
+        "creator": "Criador",
+        "type": "Tipo",
+        "period": "Período",
+        "periodType": "Tipo de período",
+        "limitType": "Tipo de limite",
+        "amount": "Valor",
+        "currentConsumption": "Consumo Atual",
+        "cooldownEndTime": "Término do Período de Espera",
+        "status": "Status",
+        "action": "Ação"
+      },
+      "status": {
+        "active": "Ativo",
+        "pendingActivation": "Aguardando ativação",
+        "pendingCancellation": "Aguardando cancelamento",
+        "cancelled": "Cancelado",
+        "expired": "Expirado"
+      },
+      "limitConfirm": {
+        "confirmTitle": "Solicitação de aumento de limite aguardando ativação",
+        "confirmDescription": "Para sua segurança, solicitações de aumento de limites estão sujeitas a um período de espera de <time></time>. Seu novo limite entrará em vigor oficialmente em <cooldown></cooldown>.",
+        "confirmCancelTitle": "Confirmar solicitação de cancelamento",
+        "confirmCancelDescription": "Para sua segurança, solicitações de cancelamento de alteração de limite estão sujeitas a um período de espera de <time></time>. Este cancelamento entrará em vigor oficialmente em <cooldown></cooldown>.",
+        "understand": "Entendo"
+      },
+      "limitCasinoUnit": {
+        "HOURS": "horas"
+      },
+      "coolingOffPeriod": {
+        "MINUTES": "{count} minutos",
+        "HOURS": "{count} horas",
+        "DAYS": "{count} dias",
+        "MINUTES_1": "1 minuto",
+        "HOURS_1": "1 hora",
+        "DAYS_1": "1 dia"
+      },
+      "cancelLimit": "Cancelar limite",
+      "continuousSession": {
+        "sessionLimits": {
+          "title": "Limites de Sessão",
+          "description": "O limite de tempo de sessão refere-se ao tempo que você se permitirá jogar continuamente.",
+          "hours2": "2 Horas"
+        },
+        "cooldown": "Período de espera"
+      },
+      "cumulativeSession": {
+        "sessionLimits": {
+          "title": "Limites de Sessão",
+          "description": "O limite de tempo de sessão refere-se ao tempo que você se permitirá jogar.",
+          "hours2": "2 Horas"
+        },
+        "period": "Período do limite de sessão"
+      },
+      "sessionLimits": {
+        "title": "Limites de Sessão",
+        "description": "O limite de tempo de sessão refere-se ao tempo que você se permitirá jogar continuamente.",
+        "hours2": "2 Horas",
+        "hours5": "5 Horas",
+        "hours10": "10 Horas",
+        "hours15": "15 Horas",
+        "enum": {
+          "2_HOURS": "2 Horas",
+          "5_HOURS": "5 Horas",
+          "10_HOURS": "10 Horas",
+          "15_HOURS": "15 Horas"
+        }
+      },
+      "periodSession": {
+        "title": "Período do limite de sessão",
+        "description": "Período de tempo durante o qual o limite de sessão será aplicado.",
+        "hours24": "24 Horas",
+        "days7": "7 Dias",
+        "days30": "30 Dias",
+        "enum": {
+          "24_HOURS": "24 Horas",
+          "7_DAYS": "7 Dias",
+          "30_DAYS": "30 Dias"
+        }
+      },
+      "cooldown": {
+        "title": "Período de espera",
+        "description": "Período de tempo após o qual você pode jogar novamente depois de esgotar seu limite de tempo.",
+        "minutes2": "2 Minutos",
+        "minutes30": "30 Minutos",
+        "hour1": "1 Hora",
+        "hours24": "24 Horas",
+        "enum": {
+          "2_MINUTES": "2 Minutos",
+          "30_MINUTES": "30 Minutos",
+          "1_HOUR": "1 Hora",
+          "24_HOURS": "24 Horas"
+        }
+      },
+      "sessionHistory": {
+        "title": "Histórico de limites de sessão",
+        "createdAt": "Criado em",
+        "creator": "Criador",
+        "timeLimit": "Limite de tempo",
+        "period": "Período",
+        "cooldown": "Período de espera",
+        "cooldownEndTime": "Término do período de espera",
+        "currentConsumption": "Consumo Atual",
+        "status": "Status",
+        "action": "Ação"
+      },
+      "confirmDialog": {
+        "title": "Solicitação de aumento de limite\naguardando ativação",
+        "description": "Para sua segurança, solicitações de aumento de limites estão sujeitas a um período de espera de <bold>{coolingOffPeriod}</bold>.\nSeu novo limite entrará em vigor oficialmente em <bold>{effectiveTime}</bold>.",
+        "confirmLabel": "Entendo",
+        "cancelLabel": "Cancelar"
+      },
+      "cancelConfirmDialog": {
+        "title": "Confirmar solicitação de cancelamento",
+        "description": "Para sua segurança, solicitações de cancelamento de alteração de limite estão sujeitas a um período de espera de <bold>{coolingOffPeriod}</bold>. Este cancelamento entrará em vigor oficialmente em <bold>{effectiveTime}</bold>.",
+        "confirmLabel": "Confirmar",
+        "cancelLabel": "Fechar"
+      },
+      "selfExclusion": {
+        "title": "Autoexclusão",
+        "description": "Escolha uma pausa mais longa se quiser parar de jogar por vários meses ou permanentemente.",
+        "historyTitle": "Histórico de limites de autoexclusão",
+        "shortBreak": {
+          "title": "Pausa curta",
+          "description": "Selecione um intervalo temporário para pausar seu jogo por um curto período de tempo."
+        },
+        "shortBreakConfirmDialog": {
+          "title": "Confirmar pausa curta",
+          "intro": "Você está prestes a ativar uma Pausa Curta em sua conta.",
+          "periodLabel": "Período:",
+          "accessDescription": "Durante este período, as apostas serão desativadas, mas você ainda poderá fazer login para gerenciar seu saldo ou sacar fundos.",
+          "cancellationDescription": "Esta Pausa Curta não pode ser cancelada até o término do período selecionado.",
+          "readyDescription": "Por favor, certifique-se de estar pronto(a) antes de confirmar."
+        },
+        "periodEnum": {
+          "1_DAY": "1 Dia",
+          "7_DAYS": "7 Dias",
+          "30_DAYS": "30 Dias",
+          "42_DAYS": "42 Dias",
+          "3_MONTHS": "3 Meses",
+          "6_MONTHS": "6 Meses",
+          "12_MONTHS": "12 Meses",
+          "24_MONTHS": "24 Meses",
+          "36_MONTHS": "36 Meses",
+          "48_MONTHS": "48 Meses",
+          "60_MONTHS": "60 Meses",
+          "INDEFINITELY": "Indefinidamente",
+          "INDEFINITE": "Indefinidamente"
+        },
+        "confirmDialog": {
+          "title": "Confirmar autoexclusão",
+          "intro": "Você está prestes a ativar a autoexclusão em sua conta.",
+          "periodLabel": "Período:",
+          "accessDescription": "Durante este período, você não poderá fazer login, jogar ou usar nenhum de nossos serviços.",
+          "cancellationDescription": "Esta ação não pode ser cancelada até o término do período selecionado.",
+          "readyDescription": "Por favor, certifique-se de estar pronto(a) antes de confirmar."
+        }
+      },
+      "selfExclusionHistory": {
+        "createdAt": "Criado em",
+        "creator": "Criador",
+        "period": "Período",
+        "startDate": "Data de início",
+        "endDate": "Data de término",
+        "status": "Status"
+      }
+    },
+    "Questionnaire": {
+      "name": "Nome",
+      "requestedAt": "Solicitado em",
+      "status": "Status",
+      "action": "Ação",
+      "answer": "Resposta",
+      "view": "Visualizar",
+      "requested": "Solicitado",
+      "submitted": "Enviado",
+      "verified": "Verificado",
+      "rejected": "Rejeitado",
+      "expired": "Expirado",
+      "cancelled": "Cancelado",
+      "back": "Voltar",
+      "enterYourAnswer": "Digite sua resposta",
+      "submit": "Enviar",
+      "submitSuccess": "Sua resposta foi enviada com sucesso.",
+      "UnsavedChangeDialog": {
+        "title": "Alerta",
+        "description": "Por favor, salve suas alterações antes de trocar de aba.\n Sair desta página descartará sua entrada atual e restaurará os dados anteriores.",
+        "leaveAnyway": "Sair mesmo assim",
+        "cancel": "Cancelar"
+      },
+      "rejectionReason": "Motivo da rejeição: {reason}",
+      "cancellationReason": "Motivo do cancelamento: {reason}",
+      "expirationDate": "Seu questionário expirou",
+      "requestedDate": "Data da solicitação"
+    }
+  },
+  "CookieConsent": {
+    "dialogTitle": "Usamos cookies",
+    "description": {
+      "p1": "Usamos cookies <necessary>Necessários</necessary> para manter nosso site funcionando corretamente e com segurança.",
+      "p2": "Com seu consentimento, também usamos cookies não essenciais de <types>Funcionalidade, Marketing e Análise</types> para personalizar sua experiência e medir o desempenho do site.",
+      "p3": "Você ainda pode usar o site básico com cookies não essenciais desativados, mas alguns recursos extras podem não estar disponíveis.",
+      "p4": "Clique em <accept>Aceitar</accept> para ativar os cookies selecionados, ou escolha Aceitar Apenas Cookies Necessários para permitir apenas cookies essenciais. Você pode atualizar suas preferências a qualquer momento."
+    },
+    "necessary": "Necessários",
+    "acceptNecessaryOnly": "Aceitar Apenas Cookies Necessários",
+    "accept": "Aceitar",
+    "functionality": "Funcionalidade",
+    "marketing": "Marketing",
+    "analytics": "Análise"
+  },
+  "Wallet": {
+    "title": "Carteira",
+    "deposit": "Depósito",
+    "withdraw": "Saque",
+    "selectMethod": "Selecione um método de depósito",
+    "selectMethodWithdraw": "Selecione um método de saque",
+    "cancel": "Cancelar",
+    "amount": "Valor",
+    "amountPlaceholder": "Digite aqui...",
+    "suggestedAmounts": "Valores sugeridos",
+    "noDeposit": "Nenhum método de depósito disponível",
+    "redirectText": "Redirecionando para o pagamento...",
+    "redirectDescription": "Por favor, não feche esta página",
+    "paymentMethod": "Método de pagamento",
+    "payoutProfile": "Conta de pagamento",
+    "selectPayout": "Selecionar perfil de pagamento",
+    "payment": {
+      "deposit": {
+        "success": "Depósito realizado com sucesso",
+        "successDescription": "Seu pagamento foi concluído com sucesso.\nO valor foi adicionado ao seu saldo.",
+        "inProgress": "Processando solicitação de depósito",
+        "inProgressDescription": "A solicitação está sendo processada pelo provedor de pagamento.\nPor favor, verifique mais tarde no histórico de transações.",
+        "fail": "Falha no depósito",
+        "failDescription": "Houve um problema e não conseguimos concluir sua solicitação.\nPor favor, tente novamente ou entre em contato conosco em <email>support@gmail.com</email>"
+      },
+      "withdraw": {
+        "success": "Solicitação de saque enviada",
+        "successDescription": "Sua solicitação de saque foi enviada com sucesso.\nPor favor, verifique mais tarde no histórico de transações.",
+        "fail": "Falha no saque",
+        "failDescription": "Houve um problema e não conseguimos concluir sua solicitação.\nPor favor, tente novamente ou entre em contato conosco em <email>support@gmail.com</email>."
+      }
+    },
+    "bank": "Nome do banco",
+    "noWithdraw": "Nenhum método de saque disponível",
+    "availableBalance": "Saldo disponível",
+    "accountNumber": "Número da conta",
+    "accountName": "Nome da conta",
+    "withdrawalAmount": "Valor do saque",
+    "accountNumberPlaceholder": "Digite sua conta bancária",
+    "accountNamePlaceholder": "Digite o nome da sua conta bancária",
+    "select": "Selecionar",
+    "selectBank": "Selecionar banco",
+    "withdrawLimit": "Seu limite de saque:",
+    "confirmWithdrawal": "Confirmar saque",
+    "withdrawalMethod": "Método de saque",
+    "newDeposit": "Novo depósito",
+    "newWithdrawal": "Novo saque"
+  },
+  "Page": {
+    "support": {
+      "contactTitle": "Dados de contato",
+      "phone": "Telefone",
+      "email": "E-mail",
+      "office": "Escritório",
+      "socialMedia": "Redes sociais",
+      "socialLink": "Link social",
+      "legalAndCompliance": "Jurídico e conformidade",
+      "contactForm": {
+        "title": "Dúvidas ou sugestões?",
+        "description": "Escreva para nós e um de nossos colaboradores entrará em contato o mais breve possível",
+        "fields": {
+          "name": "Nome",
+          "namePlaceholder": "Digite seu nome",
+          "phone": "Número de telefone",
+          "phonePlaceholder": "155 500 000",
+          "email": "E-mail",
+          "emailPlaceholder": "Digite seu e-mail",
+          "message": "Mensagem",
+          "messagePlaceholder": "Escreva sua mensagem aqui...",
+          "consent": "Por favor, confirme que você consente com o processamento e compartilhamento de suas informações pessoais com terceiros",
+          "location": "Localização"
+        },
+        "clearButton": "Limpar",
+        "sendButton": "Enviar",
+        "submitSuccess": "Obrigado! Sua mensagem foi enviada com sucesso",
+        "submitFailed": "Falha no envio. Por favor, tente novamente mais tarde",
+        "successTitle": "Mensagem enviada!",
+        "successDescription": "Obrigado por entrar em contato. Um de nossos colaboradores entrará em contato o mais breve possível."
+      }
+    }
+  },
+  "Faq": {
+    "title": "Perguntas Frequentes",
+    "collapseAll": "Recolher tudo",
+    "expandAll": "Expandir tudo"
+  },
+  "LanguageNotSupported": {
+    "title": "Conteúdo indisponível neste idioma",
+    "description": "Por favor, mude para outro idioma para visualizar esta página",
+    "backToHome": "Voltar para a página inicial"
+  },
+  "Search": {
+    "hotGames": "Jogos populares",
+    "noGamesFound": "Nenhum jogo encontrado",
+    "noMatchesFound": "Nenhuma partida encontrada",
+    "searchResults": "Resultado da busca",
+    "searchHere": "Buscar aqui",
+    "categories": "Categorias",
+    "providers": "Provedores",
+    "recentlyMatches": "Partidas recentes",
+    "totalResult": "({total} {label})",
+    "totalSelect": "(Selecionar {total})",
+    "games": "jogos",
+    "matches": "partidas",
+    "filterBySection": "Filtrar por seção",
+    "sportSectionEnum": {
+      "live": "Ao vivo",
+      "upcoming": "Em breve",
+      "highlights": "Destaques"
+    }
+  },
+  "Footer": {
+    "safetyCertificates": "Segurança e Certificados",
+    "paymentProviders": "Provedores de Pagamento"
+  }
+}

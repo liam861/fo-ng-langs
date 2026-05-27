@@ -1,0 +1,119 @@
+{
+  "Placeholder": {
+    "selectPlaceholder": "Select",
+    "searchPlaceholder": "Search...",
+    "startDate": "Start date",
+    "endDate": "End date"
+  },
+  "Action": {
+    "registerNow": "Register now",
+    "seeMore": "See more",
+    "seeLess": "See less",
+    "placeBet": "Place bet",
+    "filter": "Filter",
+    "apply": "Apply",
+    "clearAll": "Clear all",
+    "clear": "Clear",
+    "loadMore": "Load more",
+    "viewDetails": "View details",
+    "moreInfo": "More info",
+    "betNow": "Bet now",
+    "clickHere": "Click here",
+    "active": "Active",
+    "edit": "Edit",
+    "cancel": "Cancel",
+    "verify": "Verify",
+    "next": "Next",
+    "save": "Save",
+    "editField": "Edit field",
+    "confirm": "Confirm",
+    "backToHome": "Back to homepage",
+    "done": "Done",
+    "download": "Download",
+    "delete": "Delete",
+    "select": "Select",
+    "back": "Back",
+    "newWithdraw": "New withdraw",
+    "tryAgain": "Try again",
+    "close": "Close"
+  },
+  "Label": {
+    "promoCode": "Promo code",
+    "totalOdds": "Total odds",
+    "totalStake": "Total stake",
+    "potentialWinnings": "Potential winnings",
+    "live": "LIVE",
+    "new": "NEW",
+    "hot": "HOT",
+    "lowData": "LOW DATA",
+    "default": "Default",
+    "search": "Search"
+  },
+  "Legal": {
+    "termsAndConditions": "Terms and Conditions",
+    "privacyPolicy": "Privacy",
+    "faqs": "FAQs",
+    "contactUs": "Contact Us"
+  },
+  "passwordRequirements": {
+    "minLength": "Minimum 8 characters",
+    "lowercase": "At least one lowercase letter",
+    "uppercase": "At least one uppercase letter",
+    "number": "At least one number",
+    "specialCharacters": "At least one special character"
+  },
+  "Pagination": {
+    "previous": "Previous",
+    "next": "Next",
+    "pageOfTotal": "Page {current} of {total}"
+  },
+  "Table": {
+    "emptyMessage": "No data available",
+    "loading": "Loading...",
+    "name": "Name",
+    "status": "Status",
+    "action": "Action"
+  },
+  "Notification": {
+    "createdSuccessfully": "Data created successfully",
+    "dataCreatedSuccessfully": "{label} created successfully",
+    "dataUpdatedSuccessfully": "{label} updated successfully",
+    "dataRemovedSuccessfully": "{label} deleted successfully",
+    "dataUpdatedFailed": "{label} updated failed",
+    "cancelSuccessfully": "Cancel successfully"
+  },
+  "Favorite": {
+    "savedToFavorites": "Game saved to your favorites",
+    "removedFromFavorites": "Game removed from your favorites",
+    "updateFavoriteError": "An error occurred while updating your favorites.",
+    "undo": "Undo",
+    "emptyTitle": "No Fresh Picks Saved",
+    "myFavorites": "My Favorites",
+    "resultWithSearchAndFilter": "<content>{count}</content> {count, plural, =0 {favorite} one {favorite} other {favorites}} found for <content>\u201c{term}\u201d</content> in:",
+    "resultWithSearch": "<content>{count}</content> {count, plural, =0 {favorite} one {favorite} other {favorites}} found for <content>\u201c{term}\u201d</content>",
+    "resultWithFilter": "Showing <content>{count}</content> {count, plural, =0 {favorite} one {favorite} other {favorites}} in:",
+    "mobileResultFound": "Found {count} {count, plural, =0 {favorite} one {favorite} other {favorites}}",
+    "mobileTotal": "Total: {count}",
+    "filterCategoryLabel": "Category",
+    "filterProvidersLabel": "Providers",
+    "requiredTitle": "Love this game?",
+    "requiredDescription": "Log in to save this game to your personal list and find it easily next time",
+    "searchPlaceholder": "Search by name"
+  },
+  "resendHint": "Didn't receive the code? Resend in {seconds}s",
+  "Copy": {
+    "copy": "Copy",
+    "copied": "Copied!",
+    "copyFailed": "Failed to copy"
+  },
+  "NotFound": {
+    "title": "Oops! Page not found",
+    "description": "Sorry, the page you are looking for doesn't exist.",
+    "backToHome": "Back to homepage",
+    "goBack": "Go back"
+  },
+  "Maintenance": {
+    "title": "The site is currently down \nfor maintenance",
+    "description": "We are upgrading to bring you a better experience."
+  }
+}

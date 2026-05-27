@@ -1,0 +1,119 @@
+{
+  "Placeholder": {
+    "selectPlaceholder": "Selecionar",
+    "searchPlaceholder": "Pesquisar...",
+    "startDate": "Data de início",
+    "endDate": "Data de término"
+  },
+  "Action": {
+    "registerNow": "Registre-se agora",
+    "seeMore": "Ver mais",
+    "seeLess": "Ver menos",
+    "placeBet": "Fazer aposta",
+    "filter": "Filtrar",
+    "apply": "Aplicar",
+    "clearAll": "Limpar tudo",
+    "clear": "Limpar",
+    "loadMore": "Carregar mais",
+    "viewDetails": "Ver detalhes",
+    "moreInfo": "Mais informações",
+    "betNow": "Apostar agora",
+    "clickHere": "Clique aqui",
+    "active": "Ativo",
+    "edit": "Editar",
+    "cancel": "Cancelar",
+    "verify": "Verificar",
+    "next": "Próximo",
+    "save": "Salvar",
+    "editField": "Editar campo",
+    "confirm": "Confirmar",
+    "backToHome": "Voltar para a página inicial",
+    "done": "Concluído",
+    "download": "Baixar",
+    "delete": "Excluir",
+    "select": "Selecionar",
+    "back": "Voltar",
+    "newWithdraw": "Novo saque",
+    "tryAgain": "Tentar novamente",
+    "close": "Fechar"
+  },
+  "Label": {
+    "promoCode": "Código promocional",
+    "totalOdds": "Odds totais",
+    "totalStake": "Aposta total",
+    "potentialWinnings": "Ganhos potenciais",
+    "live": "AO VIVO",
+    "new": "NOVO",
+    "hot": "QUENTE",
+    "lowData": "DADOS BAIXOS",
+    "default": "Padrão",
+    "search": "Pesquisar"
+  },
+  "Legal": {
+    "termsAndConditions": "Termos e Condições",
+    "privacyPolicy": "Privacidade",
+    "faqs": "Perguntas frequentes",
+    "contactUs": "Contate-nos"
+  },
+  "passwordRequirements": {
+    "minLength": "Mínimo de 8 caracteres",
+    "lowercase": "Pelo menos uma letra minúscula",
+    "uppercase": "Pelo menos uma letra maiúscula",
+    "number": "Pelo menos um número",
+    "specialCharacters": "Pelo menos um caractere especial"
+  },
+  "Pagination": {
+    "previous": "Anterior",
+    "next": "Próximo",
+    "pageOfTotal": "Página {current} de {total}"
+  },
+  "Table": {
+    "emptyMessage": "Nenhum dado disponível",
+    "loading": "Carregando...",
+    "name": "Nome",
+    "status": "Status",
+    "action": "Ação"
+  },
+  "Notification": {
+    "createdSuccessfully": "Dados criados com sucesso",
+    "dataCreatedSuccessfully": "{label} criado(a) com sucesso",
+    "dataUpdatedSuccessfully": "{label} atualizado(a) com sucesso",
+    "dataRemovedSuccessfully": "{label} excluído(a) com sucesso",
+    "dataUpdatedFailed": "Falha ao atualizar {label}",
+    "cancelSuccessfully": "Cancelado com sucesso"
+  },
+  "Favorite": {
+    "savedToFavorites": "Jogo salvo nos seus favoritos",
+    "removedFromFavorites": "Jogo removido dos seus favoritos",
+    "updateFavoriteError": "Ocorreu um erro ao atualizar seus favoritos.",
+    "undo": "Desfazer",
+    "emptyTitle": "Nenhum favorito salvo",
+    "myFavorites": "Meus Favoritos",
+    "resultWithSearchAndFilter": "<content>{count}</content> {count, plural, =0 {favorito} one {favorito} other {favoritos}} encontrados para <content>\u201c{term}\u201d</content> em:",
+    "resultWithSearch": "<content>{count}</content> {count, plural, =0 {favorito} one {favorito} other {favoritos}} encontrados para <content>\u201c{term}\u201d</content>",
+    "resultWithFilter": "Mostrando <content>{count}</content> {count, plural, =0 {favorito} one {favorito} other {favoritos}} em:",
+    "mobileResultFound": "Encontrado {count} {count, plural, =0 {favorito} one {favorito} other {favoritos}}",
+    "mobileTotal": "Total: {count}",
+    "filterCategoryLabel": "Categoria",
+    "filterProvidersLabel": "Provedores",
+    "requiredTitle": "Amou esse jogo?",
+    "requiredDescription": "Faça login para salvar este jogo na sua lista pessoal e encontrá-lo facilmente na próxima vez",
+    "searchPlaceholder": "Pesquisar por nome"
+  },
+  "resendHint": "Não recebeu o código? Reenviar em {seconds}s",
+  "Copy": {
+    "copy": "Copiar",
+    "copied": "Copiado!",
+    "copyFailed": "Falha ao copiar"
+  },
+  "NotFound": {
+    "title": "Ops! Página não encontrada",
+    "description": "Desculpe, a página que você está procurando não existe.",
+    "backToHome": "Voltar para a página inicial",
+    "goBack": "Voltar"
+  },
+  "Maintenance": {
+    "title": "O site está em manutenção",
+    "description": "Estamos atualizando para lhe proporcionar uma experiência melhor."
+  }
+}
