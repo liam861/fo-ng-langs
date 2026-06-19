@@ -3,9 +3,12 @@
     "phoneRequired": "Phone number is required",
     "otpRequired": "Confirmation code is required",
     "required": "{label} is required",
+    "requiredField": "This field is required",
     "minLength": "{label} must be at least {min} characters",
     "maxLength": "{label} must be at most {max} characters",
     "invalidFormat": "{label} format is invalid",
+    "nameLengthInvalid": "{label} must be between {min} and {max} characters.",
+    "nameCharactersInvalid": "Invalid name. Only letters, spaces, hyphens (-), and apostrophes (') are allowed.",
     "firstNameInvalid": "First name cannot contain numbers or special characters.",
     "surNameInvalid": "Surname cannot contain numbers or special characters.",
     "ninInvalid": "NIN must contain numbers only.",
@@ -15,6 +18,7 @@
     "invalidUrl": "Invalid URL",
     "otpLength": "Invalid confirmation code",
     "passwordMinLength": "Minimum {min} characters",
+    "passwordMaxLength": "Maximum {max} characters",
     "passwordLowercase": "At least one lowercase letter",
     "passwordUppercase": "At least one uppercase letter",
     "passwordNumber": "At least one number",
@@ -35,14 +39,16 @@
     "upload": {
       "validFile": "Maximum limit: {length} files ({types}, ≤ {size} MB each).",
       "validType": "File type not allowed. Accepted types: {types}.",
-      "validSize": "File size exceeds {size}MB limit",
+      "validSize": "File too large. Max size is {size}MB.",
       "onlyOneFileAllowed": "Only 1 file allowed",
       "validCount": "The upload limit is {count} files",
       "uploadFailed": "Upload failed",
       "noFileSelected": "No file selected"
     },
     "isNumber": "{label} must be a number",
-    "messageRequired": "Please type your message"
+    "messageRequired": "Please type your message",
+    "between": "{label} must be between {min} and {max}",
+    "min": "{label} must be at least {min}"
   },
   "ERR_AGE_UNDER_18": "Minimum 18 years old required.",
   "ERR_FIRSTNAME_INVALID": "First name cannot contain numbers or special characters.",
@@ -77,5 +83,7 @@
   "recovery_code_invalid": "Invalid recovery code. Please try another one.",
   "mfa_method_not_found": "Two-factor authentication was not found.",
   "mfa_method_not_active": "Two-factor authentication is not activated.",
-  "not_support_mfa_method": "Two-factor authentication is not supported."
+  "not_support_mfa_method": "Two-factor authentication is not supported.",
+  "otp_not_found": "OTP code is invalid",
+  "invalid_bank_code": "Invalid bank code. Please check and try again."
 }
