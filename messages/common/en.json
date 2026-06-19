@@ -35,7 +35,9 @@
     "back": "Back",
     "newWithdraw": "New withdraw",
     "tryAgain": "Try again",
-    "close": "Close"
+    "close": "Close",
+    "expired": "Expired",
+    "activate": "Activate"
   },
   "Label": {
     "promoCode": "Promo code",
@@ -56,7 +58,8 @@
     "contactUs": "Contact Us"
   },
   "passwordRequirements": {
-    "minLength": "Minimum 8 characters",
+    "minLength": "Minimum {min} characters",
+    "maxLength": "Maximum {max} characters",
     "lowercase": "At least one lowercase letter",
     "uppercase": "At least one uppercase letter",
     "number": "At least one number",
@@ -78,13 +81,16 @@
     "createdSuccessfully": "Data created successfully",
     "dataCreatedSuccessfully": "{label} created successfully",
     "dataUpdatedSuccessfully": "{label} updated successfully",
-    "dataRemovedSuccessfully": "{label} deleted successfully",
+    "dataRemovedSuccessfully": "{label} removed successfully",
     "dataUpdatedFailed": "{label} updated failed",
-    "cancelSuccessfully": "Cancel successfully"
+    "cancelSuccessfully": "Cancel successfully",
+    "activatedSuccessfully": "Activated successfully",
+    "deactivatedSuccessfully": "Deactivated successfully"
   },
   "Favorite": {
     "savedToFavorites": "Game saved to your favorites",
     "removedFromFavorites": "Game removed from your favorites",
+    "toggleFavoriteFailed": "Failed to update favorites. Please try again.",
     "updateFavoriteError": "An error occurred while updating your favorites.",
     "undo": "Undo",
     "emptyTitle": "No Fresh Picks Saved",
@@ -115,5 +121,11 @@
   "Maintenance": {
     "title": "The site is currently down \nfor maintenance",
     "description": "We are upgrading to bring you a better experience."
+  },
+  "Countdown": {
+    "days": "{count, plural, one {Day} other {Days}}",
+    "hours": "{count, plural, one {Hour} other {Hours}}",
+    "mins": "{count, plural, one {Min} other {Mins}}",
+    "secs": "{count, plural, one {Sec} other {Secs}}"
   }
 }
