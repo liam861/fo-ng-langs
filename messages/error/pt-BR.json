@@ -1,9 +1,12 @@
 {
   "Validation": {
     "required": "{label} é obrigatório",
+    "requiredField": "Este campo é obrigatório",
     "minLength": "{label} deve ter pelo menos {min} caracteres",
     "maxLength": "{label} deve ter no máximo {max} caracteres",
     "invalidFormat": "Formato de {label} é inválido",
+    "nameLengthInvalid": "{label} deve ter entre {min} e {max} caracteres.",
+    "nameCharactersInvalid": "Nome inválido. Apenas letras, espaços, hífens (-) e apóstrofos (') são permitidos.",
     "firstNameInvalid": "O nome nao pode conter numeros ou caracteres especiais.",
     "surNameInvalid": "O sobrenome nao pode conter numeros ou caracteres especiais.",
     "ninInvalid": "O NIN deve conter apenas numeros.",
@@ -13,6 +16,7 @@
     "invalidUrl": "URL inválida",
     "otpLength": "O código deve ter {length} dígitos",
     "passwordMinLength": "Mínimo de {min} caracteres",
+    "passwordMaxLength": "Máximo de {max} caracteres",
     "passwordLowercase": "Pelo menos uma letra minúscula",
     "passwordUppercase": "Pelo menos uma letra maiúscula",
     "passwordNumber": "Pelo menos um número",
@@ -46,5 +50,6 @@
   "bad_request": "Requisição inválida",
   "unsupported_media_type": "Arquivo inválido nos dados do formulário",
   "conflict": "O recurso já existe",
-  "invalid_request": "Formato do corpo JSON inválido"
+  "invalid_request": "Formato do corpo JSON inválido",
+  "invalid_bank_code": "Código bancário inválido. Por favor, verifique e tente novamente."
 }
