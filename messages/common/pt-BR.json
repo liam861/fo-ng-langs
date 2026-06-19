@@ -56,7 +56,8 @@
     "contactUs": "Contate-nos"
   },
   "passwordRequirements": {
-    "minLength": "Mínimo de 8 caracteres",
+    "minLength": "Mínimo de {min} caracteres",
+    "maxLength": "Máximo de {max} caracteres",
     "lowercase": "Pelo menos uma letra minúscula",
     "uppercase": "Pelo menos uma letra maiúscula",
     "number": "Pelo menos um número",
@@ -85,6 +86,7 @@
   "Favorite": {
     "savedToFavorites": "Jogo salvo nos seus favoritos",
     "removedFromFavorites": "Jogo removido dos seus favoritos",
+    "toggleFavoriteFailed": "Falha ao atualizar favoritos. Por favor, tente novamente.",
     "updateFavoriteError": "Ocorreu um erro ao atualizar seus favoritos.",
     "undo": "Desfazer",
     "emptyTitle": "Nenhum favorito salvo",
@@ -115,5 +117,11 @@
   "Maintenance": {
     "title": "O site está em manutenção",
     "description": "Estamos atualizando para lhe proporcionar uma experiência melhor."
+  },
+  "Countdown": {
+    "days": "{count, plural, one {Dia} other {Dias}}",
+    "hours": "{count, plural, one {Hora} other {Horas}}",
+    "mins": "{count, plural, one {Min} other {Mins}}",
+    "secs": "{count, plural, one {Seg} other {Segs}}"
   }
 }
