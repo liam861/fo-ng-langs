@@ -13,7 +13,7 @@
   "AuthPrompt": {
     "title": "Log in to access",
     "description": "Please log in or create a new account to unlock",
-    "register": "Register",
+    "register": "Register test",
     "login": "Log in"
   },
   "homepage": {
@@ -103,7 +103,7 @@
     "RegistrationCard": {
       "title": " Everything you need to start betting in one place",
       "description": "Create an account to place bets, track your wins, and join weekly tournaments.",
-      "registerNow": "Register now"
+      "registerNow": "Register now test"
     }
   },
   "SignIn": {
@@ -278,7 +278,7 @@
     "termsText": "By clicking this button you confirm that you have read and agree to the",
     "termsAnd": "and",
     "termsConfirmAge": "of the company and confirm that you are of legal age",
-    "registerButton": "Register",
+    "registerButton": "Register test",
     "sendSmsTooltip": "Send SMS",
     "resendIn": "Resend in",
     "captcha": {
@@ -311,7 +311,7 @@
     }
   },
   "MainHeader": {
-    "register": "Register",
+    "register": "Register test",
     "login": "Login",
     "profileDropdown": {
       "logout": "Logout",
